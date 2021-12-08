@@ -1,6 +1,5 @@
 ## Olá, Bem-Vindo(a), é um prazer te ter aqui! 😁
 
-- 🎂 18 Anos
 - 💼 Aberto para novas oportunidades.
 - ❤️ Gosto de Front-end e Back-end.
 - 📖 Atualmente cursando Análise e Desenvolvimento de Sistemas
