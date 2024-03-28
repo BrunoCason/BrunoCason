@@ -26,7 +26,7 @@
 <div> 
   <p align="left">
   
-  <a href="https://www.linkedin.com/in/bruno-cason-da-silva-748380221/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/bruno-cason-748380221/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/andr%C3%A9-guerra-santos-    b54b281b6/"/>
   </a>
    
