@@ -1,40 +1,19 @@
-## Olá, Bem-Vindo(a), é um prazer te ter aqui! 😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B302&height=120&section=header"/>
 
-- 💼 Aberto para novas oportunidades.
-- ❤️ Gosto de Front-end e Back-end.
-- 📖 Atualmente cursando Análise e Desenvolvimento de Sistemas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91B302&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Bruno+Cason;I'm+from+Brasil,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
+## About Me:
+Hi there! I'm Bruno Cason, a passionate developer focused on building efficient and scalable web applications. My main stack includes React for creating interactive UIs, Node.js for server-side operations, and TypeScript to ensure my code is robust and maintainable. I also have a solid grasp of JavaScript and TailwindCSS, which allows me to craft modern, responsive designs. I'm always keen on leveraging AWS for cloud solutions, making my applications not just functional but also highly available.
 
-##
+## Languages and Tools::
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
-#### 🤖 Minha atividade no GitHub
-  
-<div style="display: inline_block;">
-  <a href="https://github.com/BrunoCason">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoCason&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Andre-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Andre-pic" height="145" style="border-radius:80px," src="https://github.com/BrunoCason/BrunoCason/blob/main/download.jfif">
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-cason-748380221/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunocason_) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunocasons@gmail.com)
 
-  ##
- 
-<div> 
-  <p align="left">
-  
-  <a href="https://www.linkedin.com/in/bruno-cason-748380221/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/andr%C3%A9-guerra-santos-    b54b281b6/"/>
-  </a>
-   
-  <a href="https://www.instagram.com/brunocason_/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/andre.guerra02/"/>
-  </a>
-  
-</p> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoCason&theme=merko&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoCason&theme=merko&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCason&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
