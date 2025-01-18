@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=91B302&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91B302&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Bruno+Cason;I'm+from+Brasil,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91B302&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Bruno+Cason;I'm+from+Brazil,+SP;I'm+a+Front-End+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About Me:
 Hi there! I'm Bruno Cason, a passionate developer focused on building efficient and scalable web applications. My main stack includes React for creating interactive UIs, Node.js for server-side operations, and TypeScript to ensure my code is robust and maintainable. I also have a solid grasp of JavaScript and TailwindCSS, which allows me to craft modern, responsive designs. I'm always keen on leveraging AWS for cloud solutions, making my applications not just functional but also highly available.
